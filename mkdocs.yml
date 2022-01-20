@@ -9,3 +9,5 @@ extra:
   analytics:
     provider: google
     property: G-MWWBG73GMV
+extra_javascript:
+    - javascripts/baidu-tongji.js
