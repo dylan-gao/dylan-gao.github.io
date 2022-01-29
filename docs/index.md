@@ -31,6 +31,7 @@
         * IC Fabrication Technology
         * Machine Learning
 * BE, Microelectronic Science and Engineering, **Fudan University**, 2015 - 2019
+    * Shanghai Outstanding Graduate Award
 
 ## Publications
 
@@ -42,5 +43,4 @@ architecture for element-wise activation functions](https://ieeexplore.ieee.org/
 
 ## Honors & Awards
 * Second Prize, [Integrated Circuit EDA Elite Challenge Competition](https://eda.icisc.cn/), 2020
-* Shanghai Outstanding Graduate Award, 2019
 * National First Prize, [Contemporary Undergraduate Mathematical Contest in Modeling](http://www.mcm.edu.cn/), 2018

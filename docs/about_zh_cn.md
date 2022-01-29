@@ -31,6 +31,7 @@
         * IC Fabrication Technology
         * Machine Learning
 * 本科, 微电子科学与工程, **复旦大学**, 2015 - 2019
+    * 上海市优秀毕业生
 
 ## 论文发表
 
@@ -43,5 +44,4 @@ architecture for element-wise activation functions](https://ieeexplore.ieee.org/
 ## 荣誉奖项
 
 * 二等奖, [集成电路 EDA 设计精英挑战赛](https://eda.icisc.cn/), 2020
-* 上海市优秀毕业生, 2019
 * 全国一等奖, [全国大学生数学建模竞赛](http://www.mcm.edu.cn/), 2018
