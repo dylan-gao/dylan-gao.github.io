@@ -8,14 +8,14 @@
 
 ## About
 
-* Incoming ASIC design engineer at Alibaba
+* Incoming ASIC design engineer
 * Experienced in FPGA-based AI accelerator design
 * Familiar with computer architecture, RTL design and EDA tools (DC/VCS/Verdi/Vivado)
 * 2 conference (full) papers as the 1st author
 
 ## Experience
 
-* ASIC Design Intern, **Alibaba Group**, Jun 2021 - Sep 2021
+* ASIC Design Intern, **Alibaba T-Head**, Jun 2021 - Sep 2021
     * I-Cache Design and Verification
 
 ## Education
