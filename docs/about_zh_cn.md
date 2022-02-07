@@ -4,8 +4,6 @@
 
 **邮箱:** gaojingbo0620 **at** outlook **dot** com
 
-**链接:** [领英](https://www.linkedin.com/in/jingbo-gao/), [谷歌学术](https://scholar.google.com/citations?user=auk2qrcAAAAJ), [知乎](https://www.zhihu.com/people/gao-jing-bo-61/)
-
 ## 关于我
 
 * **准**芯片设计工程师
@@ -21,7 +19,7 @@
 ## 教育经历
 
 * 硕士, 微电子学与固体电子学, **复旦大学**, 2019 - 2022
-    * GPA 排名: 1/47
+    * 成绩: 3.8/4.0 (排名: 1/47)
     * 主要研究基于 FPGA 的 AI 加速器
 * 本科生交换项目, **香港科技大学**, 2018
     * 参与课程
@@ -35,9 +33,9 @@
 
 ## 论文发表
 
-1. <u>**Jingbo Gao**</u>, Yu Qian, Yihan Hu, Xitian Fan, Wai-Shing Luk, Wei Cao, Lingli Wang, "[LETA: a lightweight exchangeable-track accelerator for EfficientNet based on FPGA](https://ieeexplore.ieee.org/document/9609919/)", International Conference on Field-Programmable Technology (ICFPT), 2021.
+1. <u>**Jingbo Gao**</u>, Yu Qian, Yihan Hu, Xitian Fan, Wai-Shing Luk, Wei Cao, Lingli Wang, "[LETA: a lightweight exchangeable-track accelerator for EfficientNet based on FPGA](https://ieeexplore.ieee.org/document/9609919/)", International Conference on Field-Programmable Technology (FPT), 2021.
 2. Xuan Feng, Yue Li, Yu Qian, <u>**Jingbo Gao**</u>, Wei Cao, Lingli Wang, "[A high-precision flexible symmetry-aware
-architecture for element-wise activation functions](https://ieeexplore.ieee.org/document/9609865/)", International Conference on Field-Programmable Technology (ICFPT), 2021.
+architecture for element-wise activation functions](https://ieeexplore.ieee.org/document/9609865/)", International Conference on Field-Programmable Technology (FPT), 2021.
 3. <u>**Jingbo Gao**</u>, Wenbo Yin, Wai-Shing Luk, Lingli Wang, "[Scalable multi-session TCP offload engine for latency-sensitive applications](https://ieeexplore.ieee.org/document/9282453/)", China Semiconductor Technology International Conference (CSTIC), 2020.
 4. Jue Deng, Wen Zhuang, Luke Bao, Xiaoying Wu, <u>**Jingbo Gao**</u>, Bingjie Wang, Xuemei Sun, Huisheng Peng, "[A tactile sensing textile with bending-independent pressure perception and spatial acuity](https://www.sciencedirect.com/science/article/pii/S0008622319303422/)", Carbon, vol. 149, pp. 63-70, 2019.
 

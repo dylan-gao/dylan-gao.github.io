@@ -4,8 +4,6 @@
 
 **Email:** gaojingbo0620 **at** outlook **dot** com
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/jingbo-gao/), [Google Scholar](https://scholar.google.com/citations?user=auk2qrcAAAAJ), [Zhihu](https://www.zhihu.com/people/gao-jing-bo-61/)
-
 ## About
 
 * Incoming ASIC design engineer
@@ -21,7 +19,7 @@
 ## Education
 
 * MS, Microelectronics and Solid State Electronics, **Fudan University**, 2019 - 2022
-    * GPA Ranking: 1/47
+    * Grade: 3.8 out of 4.0 (Rank 1 out of 47)
     * Focus on FPGA-based AI accelerator
 * UG Exchange Program, **The Hong Kong University of Science and Technology**, 2018
     * Courses Taken
@@ -35,9 +33,9 @@
 
 ## Publications
 
-1. <u>**Jingbo Gao**</u>, Yu Qian, Yihan Hu, Xitian Fan, Wai-Shing Luk, Wei Cao, Lingli Wang, "[LETA: a lightweight exchangeable-track accelerator for EfficientNet based on FPGA](https://ieeexplore.ieee.org/document/9609919/)", International Conference on Field-Programmable Technology (ICFPT), 2021.
+1. <u>**Jingbo Gao**</u>, Yu Qian, Yihan Hu, Xitian Fan, Wai-Shing Luk, Wei Cao, Lingli Wang, "[LETA: a lightweight exchangeable-track accelerator for EfficientNet based on FPGA](https://ieeexplore.ieee.org/document/9609919/)", International Conference on Field-Programmable Technology (FPT), 2021.
 2. Xuan Feng, Yue Li, Yu Qian, <u>**Jingbo Gao**</u>, Wei Cao, Lingli Wang, "[A high-precision flexible symmetry-aware
-architecture for element-wise activation functions](https://ieeexplore.ieee.org/document/9609865/)", International Conference on Field-Programmable Technology (ICFPT), 2021.
+architecture for element-wise activation functions](https://ieeexplore.ieee.org/document/9609865/)", International Conference on Field-Programmable Technology (FPT), 2021.
 3. <u>**Jingbo Gao**</u>, Wenbo Yin, Wai-Shing Luk, Lingli Wang, "[Scalable multi-session TCP offload engine for latency-sensitive applications](https://ieeexplore.ieee.org/document/9282453/)", China Semiconductor Technology International Conference (CSTIC), 2020.
 4. Jue Deng, Wen Zhuang, Luke Bao, Xiaoying Wu, <u>**Jingbo Gao**</u>, Bingjie Wang, Xuemei Sun, Huisheng Peng, "[A tactile sensing textile with bending-independent pressure perception and spatial acuity](https://www.sciencedirect.com/science/article/pii/S0008622319303422/)", Carbon, vol. 149, pp. 63-70, 2019.
 

@@ -9,5 +9,8 @@ extra:
   analytics:
     provider: google
     property: G-MWWBG73GMV
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jingbo-gao/
 extra_javascript:
     - javascripts/baidu-tongji.js
