@@ -9,7 +9,7 @@
 * Incoming ASIC design engineer
 * Experienced in FPGA-based AI accelerator design
 * Familiar with computer architecture, RTL design and EDA tools (DC/VCS/Verdi/Vivado)
-* 2 conference (full) papers as the 1st author
+* 2 conference papers as the 1st author
 
 ## Experience
 
@@ -20,7 +20,8 @@
 
 * MS, Microelectronics and Solid State Electronics, **Fudan University**, 2019 - 2022
     * Grade: 3.8 out of 4.0 (Rank 1 out of 47)
-    * Focus on FPGA-based AI accelerator
+    * Focus on FPGA-based AI accelerator in datacenters
+    * Thesis: FPGA-Based Reconfigurable Accelerator for EfficientNets
 * UG Exchange Program, **The Hong Kong University of Science and Technology**, 2018
     * Courses Taken
         * Computer Organization
