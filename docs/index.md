@@ -22,7 +22,8 @@
     * Grade: 3.8 out of 4.0 (Rank 1 out of 47)
     * Focus on FPGA-based AI accelerator in datacenters
     * Thesis: FPGA-Based Reconfigurable Accelerator for EfficientNets
-* UG Exchange Program, **The Hong Kong University of Science and Technology**, 2018
+* UG Exchange Program, **Hong Kong University of Science and Technology**, 2018
+    * Grade: 4.0 out of 4.3
     * Courses Taken
         * Computer Organization
         * Computer Communication Network
@@ -30,6 +31,7 @@
         * IC Fabrication Technology
         * Machine Learning
 * BE, Microelectronic Science and Engineering, **Fudan University**, 2015 - 2019
+    * Grade: 3.5 out of 4.0
     * Shanghai Outstanding Graduate Award
 
 ## Publications

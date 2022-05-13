@@ -23,6 +23,7 @@
     * 主要研究基于 FPGA 的数据中心 AI 加速器
     * 学位论文: 基于 FPGA 的 EfficientNet 系列可重构硬件加速器设计
 * 本科生交换项目, **香港科技大学**, 2018
+    * 成绩: 4.0/4.3
     * 参与课程
         * Computer Organization
         * Computer Communication Network
@@ -30,6 +31,7 @@
         * IC Fabrication Technology
         * Machine Learning
 * 本科, 微电子科学与工程, **复旦大学**, 2015 - 2019
+    * 成绩: 3.5/4.0
     * 上海市优秀毕业生
 
 ## 论文发表
