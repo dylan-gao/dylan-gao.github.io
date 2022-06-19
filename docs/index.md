@@ -34,6 +34,7 @@
 * BE, Microelectronic Science and Engineering, **Fudan University**, 2015 - 2019
     * Grade: 3.5 out of 4.0
     * Shanghai Outstanding Graduate Award
+    * Thesis: Design and Implementation of TCP Offload Engine
 
 ## Publications
 
