@@ -10,7 +10,7 @@
 
 * **准** RTL 设计工程师
 * 有丰富的基于 FPGA 的 NPU (神经网络处理器) 设计经验
-* 熟悉计算机体系结构, RTL 设计与 EDA 工具 (DC/VCS/Verdi/Vivado)
+* 熟悉计算机体系结构/微架构, RTL 设计与 EDA 工具 (DC/VCS/Verdi/Vivado)
 
 ## 工作经历
 

@@ -10,7 +10,7 @@
 
 * **Incoming** RTL design engineer
 * Experienced in FPGA-based NPU (Neural Processing Unit) design
-* Familiar with computer architecture, RTL design and EDA tools (DC/VCS/Verdi/Vivado)
+* Familiar with computer arch/µarch, RTL design and EDA tools (DC/VCS/Verdi/Vivado)
 
 ## Experience
 
