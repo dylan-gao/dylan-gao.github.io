@@ -1,6 +1,6 @@
 [中文版](/about_zh_cn/)
 
-*Last Updated: 2022/6/13*
+*Last Updated: 2022/7/4*
 
 # Jingbo Gao (高靖博)
 
