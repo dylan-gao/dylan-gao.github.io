@@ -8,12 +8,12 @@
 
 ## About
 
-* **Incoming** RTL design engineer
 * Experienced in FPGA-based NPU (Neural Processing Unit) design
 * Familiar with computer arch/µarch, RTL design and EDA tools (DC/VCS/Verdi/Vivado)
 
 ## Experience
 
+* RTL Design Engineer, **Alibaba T-Head Semiconductor**, Jul 2022 - Present
 * RTL Design Intern, **Alibaba T-Head Semiconductor**, Jun 2021 - Sep 2021
     * I-Cache Design and Verification
 
