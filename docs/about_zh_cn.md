@@ -1,6 +1,6 @@
 [English](/)
 
-*最近更新: 2022/7/4*
+*最近更新: 2022/8/28*
 
 # 高靖博
 
@@ -14,6 +14,7 @@
 ## 工作经历
 
 * RTL 设计工程师, **阿里巴巴平头哥半导体**, 2022 年 7 月 - 现在
+    * 微架构设计与 RTL 实现
 * RTL 设计实习生, **阿里巴巴平头哥半导体**, 2021 年 6 月 - 2021 年 9 月
     * I-Cache 的设计与验证
 
@@ -38,11 +39,12 @@
 
 ## 论文发表
 
-1. Su Zheng, Zhen Li, Yao Lu, <u>**Jingbo Gao**</u>, Jide Zhang, Lingli Wang, "HEAM: High-efficiency approximate multiplier optimization for deep neural networks", International Symposium on Circuits and Systems (ISCAS), 2022. [[link](https://arxiv.org/abs/2201.08022)]
-2. <u>**Jingbo Gao**</u>, Yu Qian, Yihan Hu, Xitian Fan, Wai-Shing Luk, Wei Cao, Lingli Wang, "LETA: A lightweight exchangeable-track accelerator for EfficientNet based on FPGA", International Conference on Field-Programmable Technology (FPT), 2021. [[link](https://ieeexplore.ieee.org/document/9609919)]
-3. Xuan Feng, Yue Li, Yu Qian, <u>**Jingbo Gao**</u>, Wei Cao, Lingli Wang, "A high-precision flexible symmetry-aware architecture for element-wise activation functions", International Conference on Field-Programmable Technology (FPT), 2021. [[link](https://ieeexplore.ieee.org/document/9609865)]
-4. <u>**Jingbo Gao**</u>, Wenbo Yin, Wai-Shing Luk, Lingli Wang, "Scalable multi-session TCP offload engine for latency-sensitive applications", China Semiconductor Technology International Conference (CSTIC), 2020. [[link](https://ieeexplore.ieee.org/document/9282453)]
-5. Jue Deng, Wen Zhuang, Luke Bao, Xiaoying Wu, <u>**Jingbo Gao**</u>, Bingjie Wang, Xuemei Sun, Huisheng Peng, "A tactile sensing textile with bending-independent pressure perception and spatial acuity", Carbon, vol. 149, pp. 63-70, 2019. [[link](https://www.sciencedirect.com/science/article/pii/S0008622319303422)]
+1. Zhen Li, Su Zheng, Jide Zhang, Yao Lu, <u>**Jingbo Gao**</u>, Jun Tao, Lingli Wang, "Adaptable approximate multiplier design based on input distribution and polarity", IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022. [[link](https://ieeexplore.ieee.org/document/9861394)]
+2. Su Zheng, Zhen Li, Yao Lu, <u>**Jingbo Gao**</u>, Jide Zhang, Lingli Wang, "HEAM: High-efficiency approximate multiplier optimization for deep neural networks", International Symposium on Circuits and Systems (ISCAS), 2022. [[link](https://arxiv.org/abs/2201.08022)]
+3. <u>**Jingbo Gao**</u>, Yu Qian, Yihan Hu, Xitian Fan, Wai-Shing Luk, Wei Cao, Lingli Wang, "LETA: A lightweight exchangeable-track accelerator for EfficientNet based on FPGA", International Conference on Field-Programmable Technology (FPT), 2021. [[link](https://ieeexplore.ieee.org/document/9609919)]
+4. Xuan Feng, Yue Li, Yu Qian, <u>**Jingbo Gao**</u>, Wei Cao, Lingli Wang, "A high-precision flexible symmetry-aware architecture for element-wise activation functions", International Conference on Field-Programmable Technology (FPT), 2021. [[link](https://ieeexplore.ieee.org/document/9609865)]
+5. <u>**Jingbo Gao**</u>, Wenbo Yin, Wai-Shing Luk, Lingli Wang, "Scalable multi-session TCP offload engine for latency-sensitive applications", China Semiconductor Technology International Conference (CSTIC), 2020. [[link](https://ieeexplore.ieee.org/document/9282453)]
+6. Jue Deng, Wen Zhuang, Luke Bao, Xiaoying Wu, <u>**Jingbo Gao**</u>, Bingjie Wang, Xuemei Sun, Huisheng Peng, "A tactile sensing textile with bending-independent pressure perception and spatial acuity", Carbon, vol. 149, pp. 63-70, 2019. [[link](https://www.sciencedirect.com/science/article/pii/S0008622319303422)]
 
 ## 荣誉奖项
 
