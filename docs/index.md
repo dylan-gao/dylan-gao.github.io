@@ -37,14 +37,10 @@
     * Shanghai Outstanding Graduate Award
     * Thesis: Design and Implementation of TCP Offload Engine
 
-## Publications
+## Selected Publications ([](/pub_list/))
 
-1. Zhen Li, Su Zheng, Jide Zhang, Yao Lu, <u>**Jingbo Gao**</u>, Jun Tao, Lingli Wang, "Adaptable approximate multiplier design based on input distribution and polarity", IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022. [[link](https://ieeexplore.ieee.org/document/9861394)]
-2. Su Zheng, Zhen Li, Yao Lu, <u>**Jingbo Gao**</u>, Jide Zhang, Lingli Wang, "HEAM: High-efficiency approximate multiplier optimization for deep neural networks", International Symposium on Circuits and Systems (ISCAS), 2022. [[link](https://arxiv.org/abs/2201.08022)]
-3. <u>**Jingbo Gao**</u>, Yu Qian, Yihan Hu, Xitian Fan, Wai-Shing Luk, Wei Cao, Lingli Wang, "LETA: A lightweight exchangeable-track accelerator for EfficientNet based on FPGA", International Conference on Field-Programmable Technology (FPT), 2021. [[link](https://ieeexplore.ieee.org/document/9609919)]
-4. Xuan Feng, Yue Li, Yu Qian, <u>**Jingbo Gao**</u>, Wei Cao, Lingli Wang, "A high-precision flexible symmetry-aware architecture for element-wise activation functions", International Conference on Field-Programmable Technology (FPT), 2021. [[link](https://ieeexplore.ieee.org/document/9609865)]
-5. <u>**Jingbo Gao**</u>, Wenbo Yin, Wai-Shing Luk, Lingli Wang, "Scalable multi-session TCP offload engine for latency-sensitive applications", China Semiconductor Technology International Conference (CSTIC), 2020. [[link](https://ieeexplore.ieee.org/document/9282453)]
-6. Jue Deng, Wen Zhuang, Luke Bao, Xiaoying Wu, <u>**Jingbo Gao**</u>, Bingjie Wang, Xuemei Sun, Huisheng Peng, "A tactile sensing textile with bending-independent pressure perception and spatial acuity", Carbon, vol. 149, pp. 63-70, 2019. [[link](https://www.sciencedirect.com/science/article/pii/S0008622319303422)]
+1. <u>**Jingbo Gao**</u>, Yu Qian, Yihan Hu, Xitian Fan, Wai-Shing Luk, Wei Cao, Lingli Wang, "LETA: A lightweight exchangeable-track accelerator for EfficientNet based on FPGA", International Conference on Field-Programmable Technology (FPT), 2021. [[link](https://ieeexplore.ieee.org/document/9609919)]
+2. <u>**Jingbo Gao**</u>, Wenbo Yin, Wai-Shing Luk, Lingli Wang, "Scalable multi-session TCP offload engine for latency-sensitive applications", China Semiconductor Technology International Conference (CSTIC), 2020. [[link](https://ieeexplore.ieee.org/document/9282453)]
 
 ## Honors & Awards
 * Second Prize, [Integrated Circuit EDA Elite Challenge Competition](https://eda.icisc.cn/), 2020
