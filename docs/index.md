@@ -37,7 +37,7 @@
     * Shanghai Outstanding Graduate Award
     * Thesis: Design and Implementation of TCP Offload Engine
 
-## Selected Publications ([](/pub_list/))
+## Selected Publications ([All](/pub_list/))
 
 1. <u>**Jingbo Gao**</u>, Yu Qian, Yihan Hu, Xitian Fan, Wai-Shing Luk, Wei Cao, Lingli Wang, "LETA: A lightweight exchangeable-track accelerator for EfficientNet based on FPGA", International Conference on Field-Programmable Technology (FPT), 2021. [[link](https://ieeexplore.ieee.org/document/9609919)]
 2. <u>**Jingbo Gao**</u>, Wenbo Yin, Wai-Shing Luk, Lingli Wang, "Scalable multi-session TCP offload engine for latency-sensitive applications", China Semiconductor Technology International Conference (CSTIC), 2020. [[link](https://ieeexplore.ieee.org/document/9282453)]

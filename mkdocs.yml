@@ -3,7 +3,7 @@ site_url: https://dylan-gao.github.io
 nav:
     - Home: index.md
     - 主页: about_zh_cn.md
-    - Publications: pub_list.md
+    - Publication List: pub_list.md
     - IC 小白的进阶之路: learning.md
 theme: material
 extra:
