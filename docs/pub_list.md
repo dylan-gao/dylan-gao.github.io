@@ -1,4 +1,4 @@
-# Publications
+# Publication List
 
 1. Zhen Li, Su Zheng, Jide Zhang, Yao Lu, <u>**Jingbo Gao**</u>, Jun Tao, Lingli Wang, "Adaptable approximate multiplier design based on input distribution and polarity", IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022. [[link](https://ieeexplore.ieee.org/document/9861394)]
 2. Su Zheng, Zhen Li, Yao Lu, <u>**Jingbo Gao**</u>, Jide Zhang, Lingli Wang, "HEAM: High-efficiency approximate multiplier optimization for deep neural networks", International Symposium on Circuits and Systems (ISCAS), 2022. [[link](https://arxiv.org/abs/2201.08022)]
