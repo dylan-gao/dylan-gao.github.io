@@ -24,7 +24,7 @@
 * MS, Microelectronics and Solid State Electronics, **Fudan University**, 2019 - 2022
     * Grade: 3.8 out of 4.0 (Rank 1 out of 47)
     * Focus on FPGA-based NPUs (Neural Processing Units) for data centers
-    * Thesis: <a href="https://thesis.fudan.edu.cn/docinfo.action?id1=74d46b80595343125f94950f4ad554f1&id2=x%252BMBaz2sL7c%253D" target="_blank">FPGA-Based Reconfigurable Accelerator for EfficientNets</a>
+    * Thesis: [FPGA-Based Reconfigurable Accelerator for EfficientNets](https://thesis.fudan.edu.cn/docinfo.action?id1=74d46b80595343125f94950f4ad554f1&id2=x%252BMBaz2sL7c%253D)
 * UG Exchange Program, **Hong Kong University of Science and Technology**, 2018
     * Grade: 4.0 out of 4.3
     * Courses Taken
