@@ -1,6 +1,6 @@
 [中文版](/about_zh_cn/)
 
-*Last Updated: 2022/10/30*
+*Last Updated: 2022/11/19*
 
 # Jingbo Gao (高靖博)
 
@@ -10,12 +10,12 @@
 
 * Interested in GPGPU shader core design
 * Experienced in FPGA-based NPU (Neural Processing Unit) design
-* Familiar with computer arch/µarch, RTL design and EDA tools (DC/VCS/Verdi/Vivado)
+* Familiar with computer arch/µarch, RTL design, SystemVerilog, Python and Bash/Tcsh
 
 ## Experience
 
 * RTL Design Engineer, **Alibaba T-Head Semiconductor**, Jul 2022 - Present
-    * μArch Design and RTL Coding
+    * Compute Shader Core Design
 * RTL Design Intern, **Alibaba T-Head Semiconductor**, Jun 2021 - Sep 2021
     * I-Cache Design and Verification
 
