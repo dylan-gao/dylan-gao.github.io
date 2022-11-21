@@ -10,7 +10,7 @@
 
 * Interested in GPGPU shader core design
 * Experienced in FPGA-based NPU (Neural Processing Unit) design
-* Familiar with computer arch/µarch, RTL design, SystemVerilog, Python and Bash/Tcsh
+* Familiar with computer arch/µarch, RTL design, Formal Verification, SystemVerilog, Python and Bash/Tcsh
 
 ## Experience
 
