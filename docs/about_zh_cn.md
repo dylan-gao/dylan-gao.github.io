@@ -1,6 +1,6 @@
 [English](/)
 
-*最近更新: 2022/11/19*
+*最近更新: 2022/12/30*
 
 # 高靖博
 
@@ -8,7 +8,6 @@
 
 ## 关于我
 
-* 对 GPGPU Shader Core 设计有兴趣
 * 有丰富的基于 FPGA 的 NPU (神经网络处理器) 设计经验
 * 熟悉计算机体系结构/微架构, RTL 设计, SystemVerilog, 形式验证, Python 与 Bash/Tcsh
 
