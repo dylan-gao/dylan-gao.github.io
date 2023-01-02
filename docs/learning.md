@@ -2,6 +2,13 @@
 
 <table>
 <tr>
+    <td><b>Type</b></td>
+    <td><b>Course Code</b></td>
+    <td><b>Title</b></td>
+    <td><b>Links</b></td>
+</tr>
+<tr>
+    <td>Open Course</td>
     <td>CMU 18-447</td>
     <td>Introduction to Computer Architecture</td>
     <td>
@@ -11,6 +18,7 @@
     </td>
 </tr>
 <tr>
+    <td>Open Course</td>
     <td>MIT CSAIL</td>
     <td>The Missing Semester of Your CS Education</td>
     <td>
@@ -18,6 +26,7 @@
     </td>
 </tr>
 <tr>
+    <td>Book</td>
     <td></td>
     <td>General-Purpose Graphics Processor Architecture</td>
     <td></td>
