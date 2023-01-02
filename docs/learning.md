@@ -3,12 +3,12 @@
 <table>
 <tr>
     <td><b>Type</b></td>
-    <td><b>Course Code</b></td>
+    <td><b>Code</b></td>
     <td><b>Title</b></td>
     <td><b>Links</b></td>
 </tr>
 <tr>
-    <td>Open Course</td>
+    <td>Course</td>
     <td>CMU 18-447</td>
     <td>Introduction to Computer Architecture</td>
     <td>
@@ -18,7 +18,7 @@
     </td>
 </tr>
 <tr>
-    <td>Open Course</td>
+    <td>Course</td>
     <td>MIT CSAIL</td>
     <td>The Missing Semester of Your CS Education</td>
     <td>
