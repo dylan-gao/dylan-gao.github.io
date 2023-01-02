@@ -5,6 +5,7 @@ nav:
     - 主页: about_zh_cn.md
     - Publication List: pub_list.md
     - IC 小白的进阶之路: learning.md
+    - Useful Links: useful_links.md
 theme: material
 extra:
   analytics:

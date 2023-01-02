@@ -17,4 +17,9 @@
     <a href="https://missing.csail.mit.edu/">Website</a>
     </td>
 </tr>
+<tr>
+    <td></td>
+    <td>General-Purpose Graphics Processor Architecture</td>
+    <td></td>
+</tr>
 </table>
