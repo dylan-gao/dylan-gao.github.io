@@ -21,7 +21,7 @@
 
 ## Education
 
-* MS, Microelectronics and Solid State Electronics, **Fudan University**, 2019 - 2022
+* MS, Microelectronics and Solid State Electronics (IC Design), **Fudan University**, 2019 - 2022
     * Grade: 3.8 out of 4.0 (Rank 1 out of 47)
     * Focus on FPGA-based NPUs (Neural Processing Units) for data centers
     * Thesis: FPGA-Based Reconfigurable Accelerator for EfficientNets
