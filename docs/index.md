@@ -9,7 +9,7 @@
 ## About
 
 * Experienced in FPGA-based NPU (Neural Processing Unit) design
-* Familiar with computer Arch/µArch, RTL design, Formal Verification, SystemVerilog, Python and Bash/Tcsh
+* Familiar with computer Arch/µArch, RTL design, formal datapath verification, Verilog/SystemVerilog, Python and Linux shells (Bash, Tcsh, etc.)
 
 ## Experience
 
