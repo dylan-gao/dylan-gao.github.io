@@ -35,7 +35,7 @@
         * Machine Learning
 * BE, Microelectronic Science and Engineering, **Fudan University**, 2015 - 2019
     * Grade: 3.5 out of 4.0
-    * Shanghai Outstanding Graduate Award
+    * Shanghai Outstanding Graduate Award (Top 5%)
     * Thesis: Design and Implementation of TCP Offload Engine
 
 ## Selected Publications ([Full-List](/pub_list/))
@@ -44,5 +44,5 @@
 2. <u>**Jingbo Gao**</u>, Wenbo Yin, Wai-Shing Luk, Lingli Wang, "Scalable multi-session TCP offload engine for latency-sensitive applications", China Semiconductor Technology International Conference (CSTIC), 2020. [[link](https://ieeexplore.ieee.org/document/9282453)]
 
 ## Honors & Awards
-* Second Prize, [Integrated Circuit EDA Elite Challenge Competition](https://eda.icisc.cn/), 2020
-* National First Prize, [Contemporary Undergraduate Mathematical Contest in Modeling](http://www.mcm.edu.cn/), 2018
+* 2nd Prize (Top 20%), [Integrated Circuit EDA Elite Challenge Competition](https://eda.icisc.cn/), 2020
+* National 1st Prize (Top 1%), [Contemporary Undergraduate Mathematical Contest in Modeling](http://www.mcm.edu.cn/), 2018
