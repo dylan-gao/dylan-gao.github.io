@@ -6,7 +6,7 @@
 
 **Email:** gaojingbo0620 **at** outlook **dot** com
 
-## About
+## About Me
 
 * Experienced in FPGA-based NPU (Neural Processing Unit) design
 * Familiar with computer Arch/µArch, RTL design, formal datapath verification, Verilog/SystemVerilog, Python and Linux shells (Bash, Tcsh, etc.)
