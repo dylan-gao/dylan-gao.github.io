@@ -23,7 +23,7 @@
 
 * MS, Microelectronics and Solid State Electronics (IC Design), **Fudan University**, 2019 - 2022
     * Grade: 3.8 out of 4.0 (Rank 1 out of 47)
-    * Designed and implemented FPGA-based NPUs (Neural Processing Units) for data centers
+    * Designed and implemented NPUs (Neural Processing Units) for datacenters
     * Published a research paper on NPU architecture at FPT (a premier conference on FPGA)
     * Thesis: FPGA-Based Reconfigurable Accelerator for EfficientNets
 * UG Exchange Program, **Hong Kong University of Science and Technology**, 2018
