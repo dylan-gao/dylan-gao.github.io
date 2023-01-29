@@ -24,6 +24,7 @@
 * MS, Microelectronics and Solid State Electronics (IC Design), **Fudan University**, 2019 - 2022
     * Grade: 3.8 out of 4.0 (Rank 1 out of 47)
     * Focus on FPGA-based NPUs (Neural Processing Units) for data centers
+    * Published a research paper on NPU architecture at FPT (a premier conference on FPGA)
     * Thesis: FPGA-Based Reconfigurable Accelerator for EfficientNets
 * UG Exchange Program, **Hong Kong University of Science and Technology**, 2018
     * Grade: 4.0 out of 4.3
@@ -36,6 +37,7 @@
 * BE, Microelectronic Science and Engineering, **Fudan University**, 2015 - 2019
     * Grade: 3.5 out of 4.0
     * Shanghai Outstanding Graduate Award (Top 5%)
+    * Published a research paper on TCP/IP offload engine architecture
     * Thesis: Design and Implementation of TCP Offload Engine
 
 ## Selected Publications ([Full-List](/pub_list/))
