@@ -14,7 +14,7 @@
 ## Experience
 
 * RTL Design Engineer, **Alibaba T-Head Semiconductor**, Jul 2022 - Present
-    * Parallel Computing (AI) chip design for datacenters
+    * AI processor design for datacenters
 * RTL Design Intern, **Alibaba T-Head Semiconductor**, Jun 2021 - Sep 2021
     * I-Cache design and verification
 
