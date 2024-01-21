@@ -1,5 +1,7 @@
 # IC 小白的进阶之路
 
+*最近更新: 2024/1/21*
+
 <table>
 <tr>
     <td><b>Type</b></td>
@@ -29,6 +31,12 @@
     <td>Book</td>
     <td></td>
     <td>General-Purpose Graphics Processor Architecture</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Book</td>
+    <td></td>
+    <td>Processor Microarchitecture: An Implementation Perspective</td>
     <td></td>
 </tr>
 </table>
