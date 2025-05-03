@@ -1,6 +1,6 @@
 [中文版](/about_zh_cn/)
 
-*Last Updated: 2023/7/23*
+*Last Updated: 2025/5/3*
 
 # Jingbo Gao (高靖博)
 
@@ -8,22 +8,21 @@
 
 ## About Me
 
-* Experienced in FPGA-based NPU (Neural Processing Unit) design
-* Familiar with computer Arch/µArch, RTL design, formal datapath verification, Verilog/SystemVerilog, Python and Linux shells (Bash, Tcsh, etc.)
+* AI processor core designer
+* Familiar with computer Arch/µArch, RTL design, formal datapath verification, Verilog/SystemVerilog, and Scripts (Python, Bash, Tcsh, etc.)
 
 ## Experience
 
-* RTL Design Engineer, **Alibaba T-Head Semiconductor**, Jul 2022 - Present
-    * AI processor design for datacenters
+* Senior RTL Design Engineer, **Alibaba T-Head Semiconductor**, Apr 2025 - Present
+* RTL Design Engineer, **Alibaba T-Head Semiconductor**, Jul 2022 - Apr 2025
 * RTL Design Intern, **Alibaba T-Head Semiconductor**, Jun 2021 - Sep 2021
-    * I-Cache design and verification
 
 ## Education
 
 * MS, Microelectronics and Solid State Electronics (IC Design), **Fudan University**, 2019 - 2022
     * Grade: 3.8 out of 4.0 (Rank 1 out of 47)
-    * Designed and implemented NPUs (Neural Processing Units) for datacenters
-    * Published a research paper on NPU architecture
+    * Designed and implemented server-grade NPUs (Neural Processing Units)
+    * Published a research paper on optimized NPU architecture for lightweight CNN models
     * Thesis: FPGA-Based Reconfigurable Accelerator for EfficientNets
 * UG Exchange Program, **Hong Kong University of Science and Technology**, 2018
     * Grade: 4.0 out of 4.3
@@ -36,7 +35,7 @@
 * BE, Microelectronic Science and Engineering, **Fudan University**, 2015 - 2019
     * Grade: 3.5 out of 4.0
     * Shanghai Outstanding Graduate Award (Top 5%)
-    * Published a research paper on TCP/IP offload engine architecture
+    * Published a research paper on TCP/IP offload engine architecture for latency sensitive applications
     * Thesis: Design and Implementation of TCP Offload Engine
 
 ## Selected Publications ([Full-List](/pub_list/))
